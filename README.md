@@ -1,0 +1,7 @@
+对图片组成的gif 进行 Loading动画
+
+使用的是在ViewController的ectension中利用runtime 设置属性放置loading图片
+
+在UIImageView的extension添加方法，用于播放图片动画
+
+
